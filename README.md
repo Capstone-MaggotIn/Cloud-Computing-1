@@ -179,3 +179,7 @@ Example Response
 * [Cors](https://www.npmjs.com/package/cors)
 * [Mysql2](https://www.npmjs.com/package/mysql2)
 * [Nodemon](https://www.npmjs.com/package/nodemon)
+
+## Resources
+* [Planning costs via Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator?hl=en&dl=CjhDaVJtWldGaU16Y3lPUzFqWXpJekxUUTVOR1l0WVdFME5TMHpZelZtWWpBd016Z3lNR1FRQVE9PRAHGiRDRDFBRTI1My1FNjk5LTQ5QjMtOTU3NC1GNURBMkJDMjQ5QUU)
+* [Cloud Architecture](https://drive.google.com/file/d/1wp_0DqtgxlcqHYI-55JiAsqNzVaytXrJ/view?usp=sharing)
