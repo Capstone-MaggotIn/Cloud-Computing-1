@@ -11,6 +11,13 @@ This project implements a backend API for user authentication and articles. The 
 - User Authentication
 - Articles
 
+## Google Cloud Platform Services
+- Cloud SQL with database engine MySQL
+- Cloud Storage
+- Cloud Run
+- Artifact Registry
+- Secret Manager
+
 ## Project structure
 ```bash
 PROJECT ROOT
